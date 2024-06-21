@@ -1,0 +1,15 @@
+{
+  "name": "web-crawler-http-yrll",
+  "version": "1.0.0",
+  "description": "Project for learning HTTP",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
